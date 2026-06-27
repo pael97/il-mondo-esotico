@@ -1,10 +1,13 @@
-# Il Mondo Esotico - progetto pronto per GitHub/Vercel
+# Il Mondo Esotico - carrello a scomparsa
 
-Carica TUTTI i file e le cartelle di questa cartella nel repository GitHub `il-mondo-esotico`.
-Poi torna su Vercel e fai Deploy.
+Versione pronta per GitHub/Vercel.
 
-Admin nascosto:
-- apri il sito e aggiungi `?admin` alla fine dell'URL
-- password: `mondoesotico2026`
+Novità:
+- carrello nascosto di default;
+- si apre passando il mouse o cliccando sull'icona carrello;
+- si richiude automaticamente;
+- quantità + / -;
+- pulsante svuota carrello;
+- notifica prodotto aggiunto.
 
-Nota: questa versione salva le modifiche nel browser con localStorage. Per salvare online per tutti serve collegare Supabase.
+Carica TUTTO il contenuto di questa cartella nel repository GitHub.
