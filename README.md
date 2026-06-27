@@ -1,13 +1,14 @@
-# Il Mondo Esotico - carrello a scomparsa
+# Il Mondo Esotico - carrello a scomparsa + admin completo
 
-Versione pronta per GitHub/Vercel.
+Funzioni incluse:
+- carrello a scomparsa
+- X per chiudere pannello admin
+- modifica logo in alto
+- modifica logo/emblema centrale
+- modifica foto Discus e Ara in homepage
+- modifica prodotti, foto, prezzi, descrizioni e spedizioni
 
-Novità:
-- carrello nascosto di default;
-- si apre passando il mouse o cliccando sull'icona carrello;
-- si richiude automaticamente;
-- quantità + / -;
-- pulsante svuota carrello;
-- notifica prodotto aggiunto.
+Accesso admin: aggiungi `?admin` all’URL.
+Password: `mondoesotico2026`
 
-Carica TUTTO il contenuto di questa cartella nel repository GitHub.
+Carica su GitHub il contenuto della cartella estratta, non lo ZIP.
